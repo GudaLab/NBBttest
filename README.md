@@ -66,7 +66,7 @@ Three ways to install NBBttest.
 ```
 library(devtools)
 
-install_github("yuande/NBBttest")
+install_github("GudaLab/NBBttest")
 ```
 2. Directly install NBBttest from R console(Mac) or RGui(window): 
 Click package on R console or RGui and choose install package, choose CRAN mirrors and click OK and find NBBttest and click it.
