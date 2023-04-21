@@ -219,7 +219,7 @@ NBBplot(res=exondata, gene="H2-DMb1", nci=9, na=3, nb=3, C1="WT", C2="KO")
 
 Figure 7. NBBplot for differential expression of exons in gene H2-DMb1. The top part is expressions of exons across replicates in two conditions KO and WT. The bottum part is phyical map of exons in gene H2-DMb1. The red boxes are DE exons.
 
-## Cite
+## Citation
 Tan, YD., Guda, C. [NBBt-test: a versatile method for differential analysis of multiple types of RNA-seq data](https://www.nature.com/articles/s41598-022-15762-x). Sci Rep 12, 12833 (2022). https://doi.org/10.1038/s41598-022-15762-x
 
 
